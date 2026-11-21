@@ -30,6 +30,12 @@ use for Electives
 {
 https://ossu.firebaseapp.com/#/
 }
+Graphical user interface 
+--
+{
+https://www.studyplan.dev/
+https://tldp.org/HOWTO/NCURSES-Programming-HOWTO/
+}
 math for CS
 --
 {
